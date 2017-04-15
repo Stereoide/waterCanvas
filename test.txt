@@ -1,5 +1,0 @@
-Dies ist ein Testtext
-zum Texte testen.
-
-Mit einer dritten Zeile
-zum Spaß haben.
